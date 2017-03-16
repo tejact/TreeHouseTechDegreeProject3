@@ -1,4 +1,4 @@
-## Welcome to Stack Overboard
+# Unit Test Stack Overboard
 
 This is a WIP (Work In Progress) but the basic idea is this:
 
@@ -34,7 +34,10 @@ System.out.println("Bob: " + bob.getReputation()); // Bob's answer got upvoted (
                                                    // so this prints Bob: 25
 ```
 
-## TODO
-[ ] TESTS!
-[ ] Use a data store!
-[ ] Build the website surrounding this awesome model
+## Code
+Unit tests are added to test for reputation changes and exceptions.
+
+## Built With
+
+* [Java](https://www.oracle.com/java/index.html) - The language used
+* [JUnit](http://junit.org/junit4/) - Unit testing framework
